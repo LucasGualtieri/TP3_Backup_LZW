@@ -18,7 +18,7 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 
-import TP02.Lib;
+import TP03.Lib;
 import TP03.EstruturasDeDados.Tuplas.Tuple;
 
 public class LZW {
